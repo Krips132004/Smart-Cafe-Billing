@@ -132,20 +132,3 @@ Lowest Price Item: ₹30
 Average Price: ₹65
 
 
----
-
-📚 JavaScript Concepts Covered
-
-Variables & Data Types
-
-prompt() for input
-
-console.log() and document.write() for output
-
-if, else if, else conditions
-
-do…while loops for menus
-
-Comparison & Logical Operators
-
-String comparison for passwords
