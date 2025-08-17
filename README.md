@@ -1,4 +1,4 @@
-Smart Café Billing System
+Smart Café Billing System.
 
 📌 Project Definition
 
